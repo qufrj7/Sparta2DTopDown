@@ -1,3 +1,3 @@
 # Sparta2DTopDown
-캐릭터 구현
-맵 구현
+character 구현 - rigidbody, collision과 같은 충돌, 중력 효과 적용
+map 구현
